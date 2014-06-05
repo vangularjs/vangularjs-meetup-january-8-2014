@@ -1,0 +1,10 @@
+{
+  "name": "vangularjs-meetup-january-8-2014",
+  "version": "0.0.0",
+  "description": "AngularJS January Doing it Right : Best Practices",
+  "authors": [
+    "AngularJS Vancouver <http://www.meetup.com/vanangularJS>"
+  ],
+  "license": "MIT",
+  "dependencies": {}
+}
